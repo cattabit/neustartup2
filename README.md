@@ -1,10 +1,11 @@
 # neorustartup
 
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
-added some strings
+*NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
+ новейших технологий искусственного интеллекта.
 
-# caption 2
-bla bla bla
-
-## subcaption
-bla bla
+Наши преимущества:
+* Высокая точность поиска
+* Высокая скорость поиска
+* Низкая цена
